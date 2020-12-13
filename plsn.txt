@@ -27,3 +27,5 @@ Or 25 month, 5 days including the end date.
 3+5+1
 
 Over all Experiance - 5.7
+
+PAckage : 905000
